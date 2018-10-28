@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidDemo</string>
+    <string-array name="location_array">
+        <item>Device</item>
+        <item>SD</item>
+    </string-array>
+</resources>
